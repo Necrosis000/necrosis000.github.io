@@ -2,6 +2,7 @@ h1 {text-align: center;}
 
 hr.solid {
     border-top: 3px solid #ff0019;
+    border-top-style: outset;
   }
   
 body {
