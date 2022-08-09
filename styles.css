@@ -1,10 +1,9 @@
-h1 {text-align: center;}
+h1 {
+    text-align: center;
+    border-bottom: 5px solid red;
 
-hr.solid {
-    border-top: 3px solid #ff0019;
-    border-top-style: outset;
   }
-  
+
 body {
     background-color: #4a4948;
-    }
+  }
