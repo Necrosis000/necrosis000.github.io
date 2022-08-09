@@ -1,7 +1,9 @@
-h1 {
+#Title {
     text-align: center;
-    border-bottom: 5px solid red;
+}
 
+#headerDivide {
+    border-bottom: 5px solid red;
   }
 
 body {
