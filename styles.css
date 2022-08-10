@@ -35,3 +35,10 @@ body {
     color: lime;
   }
   
+#MadLibsTitle {
+  text-align: center;
+}
+
+#MadLibsDownloadBtn {
+  text-align: center;
+}
