@@ -10,8 +10,8 @@ body {
     background-color: #4a4948;
   }
 
-#funnymessage {
+.funnymessage {
   text-align: center;
-  font-size: 25px;
+  font-size: 18px;
 }
 
