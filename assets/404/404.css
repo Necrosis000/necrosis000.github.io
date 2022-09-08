@@ -1,5 +1,9 @@
 
 #funnyheading2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     text-align: center;
+    font-size: 72px;
   }
   
