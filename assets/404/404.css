@@ -6,7 +6,7 @@
     text-align: center;
     font-size: 72px;
     line-height: 400px;
-    background-size: cover;
+    background-size: contain;
     color: white;
     background-repeat: no-repeat
   }
